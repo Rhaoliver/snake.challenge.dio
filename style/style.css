@@ -17,6 +17,7 @@ header {
     padding: 20px;
 }
 
+
 body {
     height: 95vh;
     width: 95;
@@ -33,4 +34,6 @@ footer {
     color: white;
     margin-top: 35px;
     padding: 18px;
+    padding-left: 150px;
+    padding-right: 150px;
 }
